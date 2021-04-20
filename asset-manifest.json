@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MiniProject/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/MiniProject/static/js/main.bcd17242.chunk.js",
+    "main.js.map": "/MiniProject/static/js/main.bcd17242.chunk.js.map",
+    "runtime-main.js": "/MiniProject/static/js/runtime-main.9e5b89d9.js",
+    "runtime-main.js.map": "/MiniProject/static/js/runtime-main.9e5b89d9.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/MiniProject/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.9e6e2157.chunk.js": "/MiniProject/static/js/2.9e6e2157.chunk.js",
+    "static/js/2.9e6e2157.chunk.js.map": "/MiniProject/static/js/2.9e6e2157.chunk.js.map",
+    "static/js/3.e7ef91bd.chunk.js": "/MiniProject/static/js/3.e7ef91bd.chunk.js",
+    "static/js/3.e7ef91bd.chunk.js.map": "/MiniProject/static/js/3.e7ef91bd.chunk.js.map",
+    "index.html": "/MiniProject/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/MiniProject/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/MiniProject/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.9e6e2157.chunk.js.LICENSE.txt": "/MiniProject/static/js/2.9e6e2157.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MiniProject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e5b89d9.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.9e6e2157.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.bcd17242.chunk.js"
+  ]
+}
